@@ -1,0 +1,26 @@
+{
+  "Coverage first": {
+    "0.0": "ACI",
+    "0.2": "ACI",
+    "0.4": "ACI",
+    "0.6": "ACI",
+    "0.8": "ACI",
+    "1.0": "ACI"
+  },
+  "Small sets": {
+    "0.0": "ACI",
+    "0.2": "ACI",
+    "0.4": "Weighted CP",
+    "0.6": "Weighted CP",
+    "0.8": "Split CP",
+    "1.0": "Split CP"
+  },
+  "Low cost": {
+    "0.0": "Split CP",
+    "0.2": "ACI",
+    "0.4": "Weighted CP",
+    "0.6": "Weighted CP",
+    "0.8": "Weighted CP",
+    "1.0": "Weighted CP"
+  }
+}
