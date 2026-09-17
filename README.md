@@ -94,8 +94,4 @@ This "match the repair to the shift", together with the cost axis and the decisi
 guide, is the contribution. Importance-weighted CP giving only limited repair in
 this source-only-calibration setting is itself a useful, reportable negative result.
 
-## Next step for the paper
 
-Run both tracks on real CWRU data (loader stub in `src/data.py`), add statistical
-tests over more seeds, and write the cost/decision-guide analysis. The method,
-metrics and figures are already data-agnostic.
